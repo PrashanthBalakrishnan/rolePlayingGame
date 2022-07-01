@@ -27,5 +27,5 @@ const characterData = {
         diceCount: 3,
         currentDiceScore: []
     }
-}
-export default characterData
+};
+export default characterData;
